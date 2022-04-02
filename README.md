@@ -1,7 +1,7 @@
-## Application Zebrafish React NodeJS
+# Application Zebrafish React NodeJS
 
-# ATTENTION : sous un environnement WINDOWS :
-# Rajouter dans le fichier paquage.json
+## ATTENTION : sous un environnement WINDOWS :
+## Rajouter dans le fichier paquage.json
 
 "scripts": {
     "start": "PORT=3024 react-scripts start",
